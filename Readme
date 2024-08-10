@@ -1,0 +1,6 @@
+create a azure function project using the extension
+To run use f5 key
+ 1. This inturn runs mvn clean package
+ 2. func host start
+
+ Deploy and ruun the Command
