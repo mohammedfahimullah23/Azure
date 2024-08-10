@@ -1,3 +1,5 @@
+This is a simple app to try azure functions (Using Inputs and Output)
+
 create a azure function project using the extension
 To run use f5 key
  1. This inturn runs mvn clean package
